@@ -1,0 +1,33 @@
+PERSONAL LOAN INFORMATION
+
+Product:
+Personal Loan
+
+Purpose:
+A personal loan may be used for eligible personal financial needs, subject to applicable eligibility and approval conditions.
+
+Maximum Loan Amount:
+Up to ₹10,00,000.
+
+Loan Tenure:
+12 to 60 months.
+
+Interest Rate:
+Indicative interest rate range: 10.5% to 16% per annum.
+
+Processing Fee:
+Up to 2% of the sanctioned loan amount.
+
+Prepayment:
+Prepayment conditions depend on the applicable loan agreement and product terms.
+
+Eligibility:
+Loan eligibility depends on factors such as applicant information, income, credit profile, and applicable lending criteria.
+
+Approval:
+The AI Call Assistant cannot approve or reject a loan.
+
+Important:
+The information above is for demonstration purposes for the AI Call Assistant project. Actual loan terms may vary and must be confirmed through the applicable official agreement or authorized representative.
+
+The AI Call Assistant must not make financial commitments or decisions on behalf of the customer.
